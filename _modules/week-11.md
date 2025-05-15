@@ -4,7 +4,7 @@ weekNumber: 11
 ---
 
 April 29
-: **TBA**{: .label .label-yellow }
+: **Lecture**{: .label .label-blue }[Memory 4: Demand Paging](/sp25/assets/slides/lec17_memory4.pdf)
     : &emsp;
 
 May 1
