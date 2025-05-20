@@ -4,7 +4,7 @@ weekNumber: 9
 ---
 
 April 15
-: **Lecture**{: .label .label-blue }[Understanding and Improving the Programmability of Rust](https://songlh.github.io/)
+: **Guest Lecture**{: .label .label-blue }[Understanding and Improving the Programmability of Rust](https://songlh.github.io/)
     : &emsp;
 
 April 17
