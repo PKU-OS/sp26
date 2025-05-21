@@ -8,7 +8,7 @@ May 20
 : **Guest Lecture**{: .label .label-blue }[Memory Disaggregation](https://wangchenxi7.github.io/home/)
     : **Read**{: .label .label-green}[Ch39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 : **Lab 3b Out**{: .label .label-purple } [P-Lab3b: Mmap Files](https://pkuflyingpig.gitbook.io/pintos/project-description/lab3b-mmap-files)
-    : **Paper**{: .label .label-green}[SOSP'13 IOFlow](https://dl.acm.org/doi/10.1145/2517349.2522723)
+    : &emsp;
 
 May 22
 : **Lecture**{: .label .label-blue }[File System 2: File System Case Studies, Buffering](/sp25/assets/slides/lec21_file2.pdf)
