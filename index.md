@@ -7,7 +7,7 @@ currWeekNumber: 1
 
 # {{ site.tagline }}
 {: .mb-2 }
-Peking University, 2025 Spring
+Peking University, 2026 Spring
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <img src="/sp25/assets/images/pkuos.svg">
