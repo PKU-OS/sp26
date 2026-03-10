@@ -37,8 +37,8 @@ schedule:
   - name: Friday
     events:
       - name: Office Hour
-        start: 4:00 PM
-        end: 5:00 PM
+        start: 10:30 PM
+        end: 11:30 PM
         location: 燕园大厦811
 
 ---
