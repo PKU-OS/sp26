@@ -12,5 +12,5 @@ Mar 03
 Mar 05
 : **lecture**{: .label .label-blue}[Four Fundamental OS Concepts](/sp26/assets/slides/lec02_concepts.pdf)
   : **Read**{: .label .label-green}[Ch6](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf)
-: **TA session**{: .label .label-yellow}[Pintos Overview](/sp25/assets/slides/Pintos-lab0.pdf), [Tacos Overview](/sp25/assets/slides/tacos-lab0-intro.pdf)
+: **TA session**{: .label .label-yellow}[Pintos Overview](/sp26/assets/slides/TA_session1_pintos.pdf), [Tacos Overview](/sp26/assets/slides/TA_session1_tacos.pdf)
   : **Read**{: .label .label-green}[Disk Tutorial](https://linuxjourney.com/lesson/anatomy-of-a-disk), [Boot Tutorial](https://linuxjourney.com/lesson/boot-process-overview)
