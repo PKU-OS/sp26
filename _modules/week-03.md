@@ -11,4 +11,7 @@ Mar 17
 
 
 Mar 19
-: TBC
+: **Lecture**{: .label .label-blue }[Synchronization 1: Concurrency](/sp26/assets/slides/lec06_synchronization1.pdf)
+    : **Read**{: .label .label-green}[Ch26](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)
+: &emsp;
+    : **Paper**{: .label .label-green}[CCR'07 HowToRead](https://dl.acm.org/doi/10.1145/1273445.1273458), [NSDI'19 Shinjuku](https://www.usenix.org/conference/nsdi19/presentation/kaffes), [SOSP'21 ghOSt](https://dl.acm.org/doi/10.1145/3477132.3483542)
