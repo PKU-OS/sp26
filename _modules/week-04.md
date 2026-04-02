@@ -11,4 +11,7 @@ Mar 24
 
 
 Mar 26
-: TCB
+: **Lecture**{: .label .label-blue }[Synchronization 3: Atomic Introductions, Monitors](/sp26/assets/slides/lec08_synchronization3.pdf)
+    : **Read**{: .label .label-green}[Ch30](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf), [Ch31](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
+: &emsp;
+    : **Paper**{: .label .label-green}[OSDI'06 Chubby](https://www.usenix.org/legacy/event/osdi06/tech/burrows.html)
