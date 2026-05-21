@@ -2,14 +2,7 @@
 title: Week 12
 weekNumber: 12
 ---
-
 May 19
----
-title: Week 13
-weekNumber: 13
----
-
-May 13
 : **Lecture**{: .label .label-blue }[IO: General I/O, Disk and SSD](/sp26/assets/slides/lec19_IO.pdf)
     : **Read**{: .label .label-green}[Ch36](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [Ch37](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf), [Ch44](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf)
 : &emsp;
