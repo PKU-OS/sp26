@@ -9,4 +9,4 @@ May 19
     : **Paper**{: .label .label-green}[FAST'08 Dedup](https://www.usenix.org/legacy/events/fast08/tech/zhu.html)
 
 May 21
-: TBC
+: **Guest Lecture**{: .label .label-blue }
