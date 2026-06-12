@@ -11,6 +11,8 @@ Jun 9
 
 
 Jun 11
+: **Lecture**{: .label .label-blue }[File System 5: Storage and File Systems in Modern Computer Systems](/sp26/assets/slides/lec24_file5.pdf)
+    : **Read**{: .label .label-green}[SOSP History Day](https://www.sigops.org/s/conferences/sosp/2015/history/)
 : **Lab 3b Code due**{: .label .label-red }
 
 Jun 14
